@@ -67,7 +67,7 @@ print("Text after decryption:", decrypted_text)
 ```
 
 # OUTPUT
-![image](https://github.com/user-attachments/assets/174851be-8cc1-4731-9c7d-fef57b06e6a4)
+![Screenshot 2025-04-30 082338](https://github.com/user-attachments/assets/d989bee0-83c7-4d4a-acf8-d0e2dc597e20)
 
 # RESULT
 The program is executed successfully
